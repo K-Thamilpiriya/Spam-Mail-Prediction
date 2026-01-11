@@ -9,17 +9,17 @@ Spam mail prediction is a machine learning application that automatically classi
 <a href="">Mail_dataset</a>
 # Methodology
 * Data Preprocessing
-    Converted text to lowercase.
-    Removed stopwords.
-    Converted labels (spam/ham) to numerical values.
+    * Converted text to lowercase.
+    * Removed stopwords.
+    * Converted labels (spam/ham) to numerical values.
 * Feature Extraction
-    Used TF-IDF Vectorizer to convert text into numerical feature vectors.
-    Resulting data represented as a sparse matrix.
+    * Used TF-IDF Vectorizer to convert text into numerical feature vectors.
+    * Resulting data represented as a sparse matrix.
 * Model Training
-    Algorithm: Logistic Regression.
-    Data split into training and testing sets.
+    * Algorithm: Logistic Regression.
+    * Data split into training and testing sets.
 * Model Evaluation.
-    Evaluation Metric: Accuracy.
+    Ev* aluation Metric: Accuracy.
 # Results
 Training Data	96.77%
 Testing Data	96.68%
