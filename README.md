@@ -8,6 +8,8 @@ Spam mail prediction is a machine learning application that automatically classi
 # Dataset used from kaggle website
 <a href="https://github.com/K-Thamilpiriya/Spam-Mail-Prediction/blob/main/Spam_Mail_Prediction.ipynb">Mail_dataset</a>
 # Methodology
+<img width="943" height="694" alt="Screenshot 2026-01-11 145511" src="https://github.com/user-attachments/assets/4d593018-8b70-4ac0-a058-d7891f34a3cf" />
+
 * Data Preprocessing
     * Converted text to lowercase.
     * Removed stopwords.
