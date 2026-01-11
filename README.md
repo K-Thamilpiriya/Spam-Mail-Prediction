@@ -6,7 +6,7 @@ Spam mail prediction is a machine learning application that automatically classi
 * To train and evaluate a Logistic Regression classifier.
 * To achieve high accuracy and good generalization.
 # Dataset used from kaggle website
-<a href="">Mail_dataset</a>
+<a href="https://github.com/K-Thamilpiriya/Spam-Mail-Prediction/blob/main/Spam_Mail_Prediction.ipynb">Mail_dataset</a>
 # Methodology
 * Data Preprocessing
     * Converted text to lowercase.
