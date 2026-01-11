@@ -1,4 +1,4 @@
-# Spam-Mail-Prediction
+# Spam Mail Prediction using Machine Learning
 Spam mail prediction is a machine learning application that automatically classifies emails or messages as Spam or Ham (Not Spam). This project uses TF-IDF feature extraction and Logistic Regression to build an efficient and accurate spam detection system.
 # Objectives
 * To build a machine learning model that detects spam messages.
@@ -8,17 +8,17 @@ Spam mail prediction is a machine learning application that automatically classi
 # Dataset used from kaggle website
 <a href="">Mail_dataset</a>
 # Methodology
-1️⃣ Data Preprocessing
+* Data Preprocessing
     Converted text to lowercase.
     Removed stopwords.
     Converted labels (spam/ham) to numerical values.
-2️⃣ Feature Extraction
+* Feature Extraction
     Used TF-IDF Vectorizer to convert text into numerical feature vectors.
     Resulting data represented as a sparse matrix.
-3️⃣ Model Training
+* Model Training
     Algorithm: Logistic Regression.
     Data split into training and testing sets.
-4️⃣ Model Evaluation.
+* Model Evaluation.
     Evaluation Metric: Accuracy.
 # Results
 Training Data	96.77%
